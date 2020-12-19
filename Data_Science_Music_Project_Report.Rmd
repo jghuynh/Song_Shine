@@ -129,10 +129,9 @@ ChristophM, "Partial Dependence Plot (PDP)", *Interpretable Machine Learning*, h
 
 Dunford, Eric. "Data Science I: Foundations," *Georgetown University*, http://ericdunford.com/ppol564/#_Data_Science_I:_Foundations_. Accessed 10 Dec 2020. 
 
-Kim, Meeri. "The Secret Math Behind Feel-Good Music," *The Washington Post*, 30 Oct 2015, https://www.washingtonpost.com/news/to-your-health/wp/2015/10/30/the-mathematical-formula-behind-feel-good-songs/. Accessed 14 Dec 2020.
-
 "How do recording artists decide on the order of the songs on their CDs?", *Quora*, https://www.quora.com/How-do-recording-artists-decide-on-the-order-of-the-songs-on-their-CDs. Accessed 12 Dec 2020.
 
+Kim, Meeri. "The Secret Math Behind Feel-Good Music," *The Washington Post*, 30 Oct 2015, https://www.washingtonpost.com/news/to-your-health/wp/2015/10/30/the-mathematical-formula-behind-feel-good-songs/. Accessed 14 Dec 2020.
 
 "What Determines If A Song Is in a Major Key or Minor Key?", *studybass*, https://www.studybass.com/lessons/harmony/major-key-or-minor-key/#:~:text=A%20song%20in%20a%20major,i)%20of%20the%20minor%20key. Accessed 13 Dec 2020.
 
