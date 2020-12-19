@@ -17,7 +17,7 @@ Music has been around the world for a very long time. Most people have musical i
 
 # Background And Problem
 
-Songs (AKA tracks) have unique musical qualities. Some audio characteristics include: the key the song was written in, whether it was written in Major or minor key, how danceable the song is, the probability that the song is an instrumental, etc. The aim of this report is to see what are the major audio characteristics of a song that determine whether the song becomes a hit in the UK when it is first released? The report will also attempt to see any relationships among the audio factors.
+Songs (AKA tracks) have unique musical qualities. Some audio characteristics include: the key the song was written in, whether it was written in Major or minor key, how danceable the song is, the probability that the song is an instrumental, etc. The aim of this report is to see what are the major audio characteristics of a song that determine whether the song becomes a hit in the UK when it is first released? The report will also attempt to see any relationships among the audio factors. A Washington Post article mentioned that a few song characteristics that made people feel so good were "primarily tempo and key" but also lyrics, especially upbeat lyrics. Furthermore research suggests that music and emotion are entwined (Kim). 
 
 In summary, this report saw that the most important audio features of a song (besides popularity) is track number, instrumentalness (how probable the song is instrumental), and danceability (how suitable the song is for dancing).
 
@@ -128,6 +128,8 @@ Furthermore, another improvement is to expand this music dataset to include song
 ChristophM, "Partial Dependence Plot (PDP)", *Interpretable Machine Learning*, https://christophm.github.io/interpretable-ml-book/pdp.html. Accessed 12 Dec 2020.
 
 Dunford, Eric. "Data Science I: Foundations," *Georgetown University*, http://ericdunford.com/ppol564/#_Data_Science_I:_Foundations_. Accessed 10 Dec 2020. 
+
+Kim, Meeri. "The Secret Math Behind Feel-Good Music," *The Washington Post*, 30 Oct 2015, https://www.washingtonpost.com/news/to-your-health/wp/2015/10/30/the-mathematical-formula-behind-feel-good-songs/. Accessed 14 Dec 2020.
 
 "How do recording artists decide on the order of the songs on their CDs?", *Quora*, https://www.quora.com/How-do-recording-artists-decide-on-the-order-of-the-songs-on-their-CDs. Accessed 12 Dec 2020.
 
